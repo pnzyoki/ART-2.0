@@ -6,7 +6,6 @@
   --bg-deep: #241e18;
   --bg-section: #2e2720;
   --bg-card: #3a3128;
-  --bg-card-hover: #45392e;
   --accent: #f0b254;
   --accent-glow: rgba(240, 178, 84, 0.3);
   --accent-light: #f7d598;
@@ -16,7 +15,6 @@
   --text: #f0e8dc;
   --text-muted: #c4b8a8;
   --text-dim: #9a8e80;
-  --white: #fff;
   --radius: 16px;
   --radius-sm: 8px;
   --transition: 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
