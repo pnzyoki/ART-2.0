@@ -4,7 +4,7 @@ A visual web project exploring the intersection of **photography**, **cognitive 
 
 ## About
 
-This single-page site examines how photography as an art form enhances memory retention and supports mental health — backed by academic research and brought to life through a curated personal photo gallery.
+This single-page site examines how photography as an art form enhances memory retention and supports mental health - backed by academic research and brought to life through a curated personal photo gallery.
 
 ## Sections
 
@@ -20,10 +20,10 @@ This single-page site examines how photography as an art form enhances memory re
 
 ## Tech Stack
 
-- **HTML / CSS / JavaScript** — vanilla, no frameworks
-- **[Swiper.js](https://swiperjs.com/)** — gallery carousel
-- **[GLightbox](https://biati-digital.github.io/glightbox/)** — photo lightbox
+- **HTML / CSS / JavaScript** - vanilla, no frameworks
+- **[Swiper.js](https://swiperjs.com/)** - gallery carousel
+- **[GLightbox](https://biati-digital.github.io/glightbox/)** - photo lightbox
 
 ## Running Locally
 
-Open `index.html` directly in a browser — no build step required.
+Open `index.html` directly in a browser - no build step required.
